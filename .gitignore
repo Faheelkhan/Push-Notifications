@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+
+.idea/
+# dist directory
+dist/
+.history
+
+# Dependency directory
+node_modules/
+app/bower_components/
+
+#SASS
+.sass-cache
+
+#tmp
+.tmp
+
+.idea/
+.idea
